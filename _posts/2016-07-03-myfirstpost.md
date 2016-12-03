@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: "My First Post"
-author: "Author"
+title: "Meu Primeiro Post"
+author: "Daniel Ramos"
 comments: true
 ---
 
@@ -15,4 +15,4 @@ static void Main()
 ```
 
 
-This is my first post on the site!
+Olá Mundo!

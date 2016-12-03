@@ -3,7 +3,7 @@
   <title>Feed Name</title>
   <link href="http://domain/"/>
   <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
-  <updated>2016-07-03T23:19:20.7438363-03:00</updated>
+  <updated>2016-12-03T16:00:14.1210574-02:00</updated>
   <id>http://domain/</id>
   <author>
     <name>Author</name>
@@ -14,7 +14,7 @@
   <entry>
     <id>http://domain//2016/07/03/myfirstpost.html</id>
     <link type="text/html" rel="alternate" href="http://domain//2016/07/03/myfirstpost.html"/>
-    <title>My First Post</title>
+    <title>Meu Primeiro Post</title>
     <updated>2016-07-03T00:00:00-03:00</updated>
     <author>
       <name>Author</name>
@@ -26,7 +26,7 @@
     Console.WriteLine(&amp;quot;Hello World!&amp;quot;);
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This is my first post on the site!&lt;/p&gt;</content>
+&lt;p&gt;Olá Mundo!&lt;/p&gt;</content>
   </entry>
   
 </feed>
